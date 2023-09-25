@@ -5,6 +5,17 @@
 <h4 align=center>개발을 사랑합니다😀 성장에는 항상 목 말라있습니다💻</h4>
 </div>
 <br/>
+<br/>
+<div align=center>
+  <h1>💻 사이트</h1>
+</div>
+<div align=center><a  href="https://dansoon-log.vercel.app/">경력사항</a></div>
+<div align=center><a  href="https://danwoo-dev.netlify.app/">개발 블로그</a></div>
+<div align=center><a  href="https://dansoon-qna.vercel.app/dudgh9198">질의응답 사이트</a></div>
+
+<br/>
+<br/>
+
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
