@@ -9,7 +9,7 @@
 <div align=center>
   <h1>💻 사이트</h1>
 </div>
-<div align=center><a  href="https://danwoo-dev.netlify.app/me">경력사항</a></div>
+<div align=center><a  href="https://danwoo-dev.netlify.app/2023-01-01-intro/">경력사항</a></div>
 <div align=center><a  href="https://danwoo-dev.netlify.app/">개발 블로그</a></div>
 <div align=center><a  href="https://dansoon-qna.vercel.app/dudgh9198">질의응답 사이트</a></div>
 
