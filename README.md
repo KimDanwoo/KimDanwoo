@@ -27,11 +27,10 @@
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <br>
 
-<img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Confluence-gray?style=flat&logo=Confluence&logoColor=172B4D"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Jira-green?style=flat&logo=Jira&logoColor=0052CC"/>
-
+<img src="https://img.shields.io/badge/Notion-b4f5bd?style=for-the-badge&logo=Notion&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=GitHub&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=Git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Confluence-gray?style=for-the-badge&logo=Confluence&logoColor=172B4D"/>
+<img src="https://img.shields.io/badge/Jira-green?style=for-the-badge&logo=Jira&logoColor=0052CC"/>
 
 </div>
