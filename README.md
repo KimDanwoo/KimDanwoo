@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=header)
 
 <div>
-<h4 align=center>안녕하세요, 웹 프론트엔드 개발자 김단우 입니다.🖐</h4>
+<h4 align=center>안녕하세요, 프론트엔드 개발자 김단우 입니다.🖐</h4>
 </div>
 <br/>
 <br/>
