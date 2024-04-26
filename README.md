@@ -1,20 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=header)
 
 <div>
-<h4 align=center>프론트엔드 개발자 김단우 입니다.🖐</h4>
-<p align=center>무언갈 빠르게 좋아합니다. 그래서 변화가 빠른 FE 개발이 적성에 잘 맞습니다.</p>
-<p align=center>주도적으로 업무를 진행할 수 있는 환경을 선호합니다.</p>
-<p align=center>자기 계발에 관심이 많고 꾸준한 학습과 성장에 큰 재미를 느낍니다.</p>
-<p align=center>깔끔한 코드를 작성하지 않으면 마음이 편하지 않습니다.</p>
+<h4 align=center>Hello! I'm a Web developer, especially interested in Front-end Web development🖐</h4>
 </div>
 <br/>
 <br/>
 <div align=center>
-  <h1>💻 사이트</h1>
+  <h1>💻 Site</h1>
 </div>
-<div align=center><a  href="https://danwoo-dev.netlify.app/2023-01-01-intro/">경력사항</a></div>
-<div align=center><a  href="https://danwoo-dev.netlify.app/">개발 블로그</a></div>
-<div align=center><a  href="https://dansoon-qna.vercel.app/dudgh9198">질의응답 사이트</a></div>
+<div align=center><a  href="https://danwoo-dev.netlify.app/2023-01-01-intro/">Career</a></div>
+<div align=center><a  href="https://danwoo-dev.netlify.app/">Blog</a></div>
 
 <br/>
 <br/>
