@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=header)
 
 <div>
-<h4 align=center>Hello! I'm a Web developer, especially interested in Front-end Web development🖐</h4>
+<h4 align=left>Hello! I'm KimDanwoo, Web developer, especially interested in Front-end Web development🖐</h4>
 </div>
 <br/>
 <br/>
-<div align=center>
+<div align=left>
   <h1>💻 Site</h1>
 </div>
 <div align=center><a  href="https://danwoo-dev.netlify.app/2023-01-01-intro/">Career</a></div>
@@ -14,8 +14,8 @@
 <br/>
 <br/>
 
-<div align=center><h1>📚 STACKS</h1></div>
-<div align=center> 
+<div align=left><h1>📚 STACKS</h1></div>
+<div align=left> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/Scss-green?style=for-the-badge&logo=Sass&logoColor=CC6699"/>
