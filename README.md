@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=header)
 
 <div>
-<h4 align=left>Hello! I'm KimDanwoo, Web developer, especially interested in Front-end Web development🖐</h4>
+<h4 align=left>Hello🖐 I'm KimDanwoo, Web developer, especially interested in Front-end Web development</h4>
 </div>
 <br/>
 <br/>
 <div align=left>
   <h1>💻 Site</h1>
 </div>
-<div align=center><a  href="https://danwoo-dev.netlify.app/2023-01-01-intro/">Career</a></div>
-<div align=center><a  href="https://danwoo-dev.netlify.app/">Blog</a></div>
+<div align=left><a  href="https://danwoo-dev.netlify.app/2023-01-01-intro/">Career</a></div>
+<div align=left><a  href="https://danwoo-dev.netlify.app/">Blog</a></div>
 
 <br/>
 <br/>
