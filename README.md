@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=header)
 
 <div>
-<h4 align=left>Hello🖐 I'm KimDanwoo, Web developer, especially interested in Front-end Web development</h4>
+<h2 align=left>Hello🖐 I'm KimDanwoo, Web developer, especially interested in Front-end Web development</h2>
 </div>
 <br/>
 <br/>
