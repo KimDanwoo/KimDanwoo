@@ -8,8 +8,8 @@
 <div align=left>
   <h1>💻 Site</h1>
 </div>
-<div align=left><a  href="https://danwoo-dev.netlify.app/2023-01-01-intro/">Career</a></div>
-<div align=left><a  href="https://danwoo-dev.netlify.app/">Blog</a></div>
+<div align=left><a  href="https://danwoo-dev.netlify.app/2023-01-01-intro/" target="_brank">Career</a></div>
+<div align=left><a  href="https://danwoo-dev.netlify.app/" target="_brank">Blog</a></div>
 
 <br/>
 <br/>
