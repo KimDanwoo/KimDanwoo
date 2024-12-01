@@ -30,9 +30,9 @@
 <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=GitHub&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=Git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/Confluence-gray?style=for-the-badge&logo=Confluence&logoColor=172B4D"/>
-<img src="https://img.shields.io/badge/Jira-green?style=for-the-badge&logo=Jira&logoColor=0052CC"/>
+<img src="https://img.shields.io/badge/Jira-green?style=for-the-badge&logo=Jira&logoColor=0052CC"/></br>
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+  <img  src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" width="131px"/>
 </a>
 
 </div>
