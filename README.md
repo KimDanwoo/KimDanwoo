@@ -9,8 +9,7 @@
   <h1>💻 Site</h1>
 </div>
 <div align=left><a  href="https://danwoo-dev.netlify.app/2023-01-01-intro/" target="_blank">Career</a></div>
-<div align=left><a  href="https://danwoo-dev.netlify.app/" target="_blank">Blog</a></div>
-<div align=left><a  href="https://dansoon-dev.tistory.com/category" target="_blank">new Blog</a></div>
+<div align=left><a  href="https://dansoon-dev.tistory.com/category" target="_blank">Blog</a></div>
 
 <br/>
 <br/>
