@@ -11,11 +11,22 @@
 <div align=left><a  href="https://docs.google.com/document/d/1_oia6H3WisAHsGNJWZAYqru9pHUXovRNAaRJcZn5UBU/" target="_blank">Career (KOR)</a></div>
 <div align=left><a  href="https://docs.google.com/document/d/1uqx4FWwXxdPjy5f7J0iYbiBFncMagm4WKlWeL20Y0ec/edit?tab=t.0#heading=h.t7l2ulehyyqu" target="_blank">Career (ENG)</a></div>
 <div align=left><a  href="https://dansoon-dev.tistory.com/category" target="_blank">Blog</a></div>
+<div align=left><a  href="https://dansoon-dev.tistory.com/category" target="_blank">Blog</a></div>
 
 <br/>
 <br/>
 
-<div align=left><h1>📚 STACKS</h1></div>
+<div align=left>
+  <h1>🧪 Labs</h1>
+</div>
+
+<div align=left><a  href="https://danwoo-dev.netlify.app/" target="_blank">Ai Tech News</a></div>
+<div align=left><a  href="https://fe-deep.vercel.app/" target="_blank">프딥</a></div>
+<div align=left><a  href="https://awesome-sudoku.vercel.app/" target="_blank">스도쿠</a></div>
+
+<br/>
+<br/>
+
 <div align=left> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
