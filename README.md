@@ -19,6 +19,7 @@
 </div>
 
 <div align=left><a  href="https://danwoo-dev.netlify.app/" target="_blank">AI Tech News</a></div>
+<div align=left><a  href="https://awesome-sudoku.vercel.app/book" target="_blank">스도쿠</a></div>
 <div align=left><a  href="https://fe-deep.vercel.app/" target="_blank">프딥</a></div>
 <div align=left><a  href="https://awesome-sudoku.vercel.app/" target="_blank">스도쿠</a></div>
 
