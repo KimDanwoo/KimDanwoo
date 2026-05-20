@@ -18,10 +18,12 @@
   <h1>🧪 Labs</h1>
 </div>
 
+<div align=left><a  href="https://cheongyeon-saju.vercel.app/" target="_blank">사주</a></div>
 <div align=left><a  href="https://danwoo-dev.netlify.app/" target="_blank">AI Tech News</a></div>
 <div align=left><a  href="https://danwoo-dev.netlify.app/book/" target="_blank">Best Seller</a></div>
 <div align=left><a  href="https://fe-deep.vercel.app/" target="_blank">프딥</a></div>
 <div align=left><a  href="https://awesome-sudoku.vercel.app/" target="_blank">스도쿠</a></div>
+
 
 <br/>
 
