@@ -14,16 +14,53 @@
 
 <br/>
 
-<div align=left>
-  <h1>🧪 Labs</h1>
-</div>
+<h1 align="left">🧪 Labs</h1>
 
-<div align=left><a  href="https://cheongyeon-saju.vercel.app/" target="_blank">사주</a></div>
-<div align=left><a  href="https://danwoo-dev.netlify.app/" target="_blank">AI Tech News</a></div>
-<div align=left><a  href="https://danwoo-dev.netlify.app/book/" target="_blank">Best Seller</a></div>
-<div align=left><a  href="https://fe-deep.vercel.app/" target="_blank">프딥</a></div>
-<div align=left><a  href="https://awesome-sudoku.vercel.app/" target="_blank">스도쿠</a></div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔮 사주</h3>
+      <p>AI 기반 사주 해석 실험</p>
+      <a href="https://cheongyeon-saju.vercel.app/" target="_blank">
+        바로가기 →
+      </a>
+    </td>
+    <td width="50%">
+      <h3>📰 AI Tech News</h3>
+      <p>AI 기술 뉴스 큐레이션</p>
+      <a href="https://danwoo-dev.netlify.app/" target="_blank">
+        바로가기 →
+      </a>
+    </td>
+  </tr>
 
+  <tr>
+    <td width="50%">
+      <h3>📚 Best Seller</h3>
+      <p>실시간 베스트셀러 탐색</p>
+      <a href="https://danwoo-dev.netlify.app/book/" target="_blank">
+        바로가기 →
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🧠 프딥</h3>
+      <p>Frontend Deep Dive 아카이브</p>
+      <a href="https://fe-deep.vercel.app/" target="_blank">
+        바로가기 →
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>🎮 스도쿠</h3>
+      <p>가볍게 즐기는 퍼즐 게임</p>
+      <a href="https://awesome-sudoku.vercel.app/" target="_blank">
+        바로가기 →
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
