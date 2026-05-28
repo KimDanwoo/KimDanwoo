@@ -22,35 +22,35 @@
 
 <ul align="left">
   <li>
-    🔮 <a href="https://cheongyeon-saju.vercel.app/" target="_blank">
-      사주
+    <a href="https://cheongyeon-saju.vercel.app/" target="_blank">
+      청연사주
     </a>
     <sub> — AI 기반 사주 해석 실험</sub>
   </li>
 
   <li>
-    📰 <a href="https://danwoo-dev.netlify.app/" target="_blank">
+    <a href="https://danwoo-dev.netlify.app/" target="_blank">
       AI Tech News
     </a>
     <sub> — AI 뉴스 큐레이션</sub>
   </li>
 
   <li>
-    📚 <a href="https://danwoo-dev.netlify.app/book/" target="_blank">
+    <a href="https://danwoo-dev.netlify.app/book/" target="_blank">
       Best Seller
     </a>
     <sub> — 실시간 베스트셀러 탐색</sub>
   </li>
 
   <li>
-    🧠 <a href="https://fe-deep.vercel.app/" target="_blank">
+    <a href="https://fe-deep.vercel.app/" target="_blank">
       프딥
     </a>
     <sub> — Frontend Deep Dive 아카이브</sub>
   </li>
 
   <li>
-    🎮 <a href="https://awesome-sudoku.vercel.app/" target="_blank">
+    <a href="https://awesome-sudoku.vercel.app/" target="_blank">
       스도쿠
     </a>
     <sub> — 가볍게 즐기는 퍼즐 게임</sub>
