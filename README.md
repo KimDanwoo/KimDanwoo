@@ -11,7 +11,7 @@
 <div align=left><a  href="https://docs.google.com/document/d/1_oia6H3WisAHsGNJWZAYqru9pHUXovRNAaRJcZn5UBU/" target="_blank">Career (KOR)</a></div>
 <div align=left><a  href="https://docs.google.com/document/d/1uqx4FWwXxdPjy5f7J0iYbiBFncMagm4WKlWeL20Y0ec/edit?tab=t.0#heading=h.t7l2ulehyyqu" target="_blank">Career (ENG)</a></div>
 <div align=left><a  href="https://dansoon-dev.tistory.com/category" target="_blank">Blog</a></div>
-<div align=left><a  href="https://danwoo-lab.vercel.app/" target="_blank">Lab</a></div>
+<div align=left><a  href="https://danwoo-lab.vercel.app/" target="_blank">Labs</a></div>
 
 <br/>
 
